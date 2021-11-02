@@ -27,6 +27,7 @@ gradle/wrapper/gradle-wrapper.properties
 *.iml
 *.ipr
 /out/
+/output/
 
 ### Spring
 entity/src/main/querydsl/
